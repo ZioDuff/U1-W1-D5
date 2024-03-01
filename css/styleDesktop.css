@@ -50,6 +50,9 @@ h1 {
   text-align: center;
   width: 10em;
 }
+#box-title button a:hover {
+  cursor: pointer;
+}
 /* main section 1 */
 #section-1 {
   text-align: center;
