@@ -100,9 +100,10 @@ h1 {
 /* aside */
 .articoli {
   margin: 5em 2em;
-  border: 1px solid gray;
+  border: 1px solid #dee1e3;
   text-align: center;
   height: 27rem;
+  border-radius: 0 5px 5px;
 }
 .immagine-articoli {
   width: 100%;
