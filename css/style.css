@@ -1,0 +1,140 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap");
+/* body */
+body {
+  max-width: 500px;
+  min-width: 200px;
+  margin-left: auto;
+  margin-right: auto;
+  font-family: "Open Sans";
+  font-size: 1.2rem;
+  line-height: 1.65;
+}
+
+h1 {
+  font-family: "Montserrat";
+}
+/* header */
+#logo {
+  text-align: center;
+  background-color: black;
+  height: 10rem;
+  padding: 1.5em;
+}
+#logo img {
+  width: 15em;
+}
+#box-title {
+  background-image: url(../images/banner.jpg);
+  background-image: url(../images/banner.jpg);
+  background-position: center center;
+  height: 25%;
+  background-size: 38em;
+  text-align: center;
+  padding-bottom: 2em;
+}
+#box-title h1 {
+  font-size: 2em;
+  color: #25a2c3;
+  padding-top: 2em;
+  font-weight: bold;
+}
+#box-title p {
+  padding: 2em 2em;
+  font-size: 1.2rem;
+  line-height: 1.65;
+}
+#box-title button {
+  color: white;
+  background-color: #f04c2f;
+  font-family: "Montserrat";
+  font-weight: bold;
+  border: none;
+  border-radius: 10px;
+  line-height: 3;
+  font-size: 16px;
+  text-align: center;
+  width: 10em;
+}
+/* main section 1 */
+#box-2 {
+  text-align: center;
+  padding: 3% 1em 0;
+}
+.box-h3 {
+  margin-top: 1em;
+  margin-bottom: 0.5em;
+  font-family: "Montserrat";
+  font-size: 1.2em;
+  font-weight: bold;
+  color: #25a2c3;
+}
+#box-2 img {
+  border-radius: 50%;
+  width: 20em;
+  margin-top: 1em;
+  /* main section 2 */
+}
+#box-3 {
+  background-color: #e22d0e;
+  text-align: center;
+  padding: 2em 2em;
+  color: white;
+  height: 20%;
+}
+#box-3 h2 {
+  font-weight: bold;
+  font-size: 2em;
+  margin-bottom: 1em;
+}
+.box-3-p1 {
+  font-style: italic;
+  margin-bottom: 0.5em;
+}
+.box-3-p2 {
+  font-size: larger;
+}
+.box-3-p3 {
+  font-size: medium;
+}
+/* aside */
+.articoli {
+  margin: 5em 2em;
+  border: 1px solid gray;
+  text-align: center;
+  height: 27rem;
+}
+.immagine-articoli {
+  width: 100%;
+}
+.titoli-articoli {
+  font-weight: bold;
+  color: #25a2c3;
+  margin: 10px;
+}
+/* footer */
+footer div {
+  background-color: #25a2c3;
+  text-align: center;
+  color: white;
+  height: 25rem;
+}
+footer div h3 {
+  padding-top: 2em;
+  font-family: "Montserrat";
+  font-size: 1.5em;
+  font-weight: bold;
+  margin-bottom: 1em;
+}
+footer a {
+  color: #c8e7f0;
+}
+footer hr {
+  width: 154px;
+}
+.footer-p1 {
+  margin-bottom: 2em;
+}
+.footer-p2 {
+  margin: 2em 0;
+}
